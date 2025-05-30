@@ -7,5 +7,5 @@ a visualisatzion for project migrations.
 eventually it will be thrown aways any way, but it has some sense for presenting and showing stuff
 but keep it almost no work
 
-looks like a good place to steal a little bit of code for hurring up
+looks like a good place for inspiration and style for hurring up
 https://www.freecodecamp.org/news/build-a-todo-app-from-scratch-with-reactjs/ 
